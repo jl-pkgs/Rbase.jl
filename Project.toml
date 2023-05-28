@@ -1,0 +1,8 @@
+name = "Rbase"
+uuid = "d659afff-459f-41ea-83da-ee0c71367294"
+authors = ["Dongdong Kong <kongdd@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"

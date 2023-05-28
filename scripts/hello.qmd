@@ -1,0 +1,12 @@
+```{julia}
+using Ipaper
+using RCall
+```
+
+```{julia}
+# 加载R函数
+R"""
+source("src/make_gridFractArea.R")
+"loaded"
+"""
+```
